@@ -1,1 +1,1 @@
-# [Web saytga link](https://) {:target="_blank}
+# [Web saytga link](https:// "target="_blank)
